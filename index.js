@@ -23,4 +23,4 @@ if (xp < 1.000) {
   nivel = "Radiante"
 }
 
-console.log("O Herói de nome " + nome + ", está no nível " + nivel + ".")
+console.log(`O Herói de nome ${nome}, está no nível ${nivel}.`)
